@@ -20,3 +20,4 @@
 * Hue
 
 ## In this Tkinter App I have implemented all the above features to make this hectic task easier
+## Simple run Image Magician or Image Magician2.0 for simple or advanced augmentation features respectively ##
