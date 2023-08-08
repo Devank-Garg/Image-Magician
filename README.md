@@ -12,3 +12,11 @@
 * Flipping
 * Rotation
 * Translation
+## Pixel augmentation
+
+* Brightness
+* Contrast
+* Saturation
+* Hue
+
+## In this Tkinter App I have implemented all the above features to make this hectic task easier
