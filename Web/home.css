@@ -1,0 +1,25 @@
+body{
+    background-image: url('Image Magician.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: absolute;
+    bottom: 160px;
+}
+.home-btn{
+    border:none;
+    font-weight: bolder;
+    background-color: purple;
+    transition: opacity 0.3s;
+    box-shadow:  10px 10px rebeccapurple;
+}
+.home-btn:hover{
+    color: aquamarine;
+    opacity: 0.7;
+    box-shadow: none;
+}

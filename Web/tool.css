@@ -1,0 +1,64 @@
+/* Global styles */
+body {
+    background-image: url('tool-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Container styles */
+  .img-container {
+    
+    max-width: 400px;
+    margin-top: 30px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #e56af8;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    justify-content: center;
+  }
+  
+  .img-container h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    font-weight: bolder;
+  }
+  
+  .img-container input[type="file"] {
+    
+    margin: 50 auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    color: #e56af8;
+
+  }
+  
+  .img-container input[type="submit"] {
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #cd63fb;
+    color: #130202;
+    font-weight: bolder;
+    border: none;
+    
+    border-radius: 4px;
+    cursor: pointer;
+    box-shadow:  10px 10px rebeccapurple;
+  }
+  
+  .img-container input[type="submit"]:hover {
+    color: aquamarine;
+    opacity: 0.7;
+    box-shadow: none;
+    border: none;
+    
+  }
+  
